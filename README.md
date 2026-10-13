@@ -149,7 +149,7 @@ RideGo is an educational project for exploring interactive frontend development,
 
 **Naveena**
 
-- GitHub: https://github.com/naveena298
+- GitHub: https://github.com/mahithaasri07
 
 ## Disclaimer
 
